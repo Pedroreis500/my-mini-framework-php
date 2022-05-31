@@ -1,0 +1,17 @@
+{
+	"name": "miniframework",
+	"require": {
+		"php": ">= 7.0"
+	},
+	"authors": [
+		{
+			"name": "pedroreis500",
+			"email": "pedroreis500@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/"
+		}
+	}
+}
